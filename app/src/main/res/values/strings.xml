@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zein Notes</string>
+    <string name="to_do">To do</string>
+    <string name="enter_note">enter note</string>
+    <string name="save">save</string>
+    <string name="date">10 September 2019</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
